@@ -146,7 +146,7 @@ section{
     font-size: 2rem;
     color: var(--main-color);
     margin: 0 .8rem;
-    transition: .5s;
+    transition: .6s;
 }
 
 .home-detail .btn-sci .sci a:hover{
